@@ -1,0 +1,207 @@
+\indexentry{coaxial cable}{4}
+\indexentry{waveguide}{4}
+\indexentry{optic fibre}{4}
+\indexentry{electromagnetic interference}{4}
+\indexentry{waveguide}{5}
+\indexentry{adaptive array antenna}{5}
+\indexentry{switched beam antenna}{5}
+\indexentry{satellite communication}{6}
+\indexentry{fibre optic cable}{6}
+\indexentry{fading}{6}
+\indexentry{sectioned radiation patterns}{6}
+\indexentry{azimuth resolution}{7}
+\indexentry{range resolution}{7}
+\indexentry{swath width}{8}
+\indexentry{synthetic aperture radar}{8}
+\indexentry{electromagnetic interference}{9}
+\indexentry{coaxial cable}{11}
+\indexentry{balanced parallel wire transmission line}{11}
+\indexentry{unbalanced parallel wire transmission line}{11}
+\indexentry{microstrip line}{12}
+\indexentry{transit time}{12}
+\indexentry{transit time}{12}
+\indexentry{lumped circuit analysis}{13}
+\indexentry{distributed parameters}{13}
+\indexentry{primary constants}{13}
+\indexentry{coupled equations}{15}
+\indexentry{telegraphers equations}{15}
+\indexentry{propagation constant}{15}
+\indexentry{traveling wave phenomenon}{15}
+\indexentry{phase constant}{17}
+\indexentry{attenuation constant}{17}
+\indexentry{characteristic length}{18}
+\indexentry{characteristic impedance}{20}
+\indexentry{reflection coefficient}{21}
+\indexentry{matched condition}{23}
+\indexentry{matched condition}{25}
+\indexentry{characteristic impedance}{25}
+\indexentry{lossless transmission line}{26}
+\indexentry{propagation constant}{26}
+\indexentry{characteristic impedance}{26}
+\indexentry{low-loss transmission line}{27}
+\indexentry{propagation constant}{27}
+\indexentry{characteristic impedance}{27}
+\indexentry{voltage standing wave ratio}{29}
+\indexentry{standing wave}{30}
+\indexentry{voltage standing wave ratio}{32}
+\indexentry{voltage standing wave ratio}{33}
+\indexentry{voltage standing wave ratio}{36}
+\indexentry{admittance}{37}
+\indexentry{matching condition}{37}
+\indexentry{matching power transfer condition}{37}
+\indexentry{smith chart}{42}
+\indexentry{normalized impedance}{42}
+\indexentry{complex co-efficient plane}{43}
+\indexentry{gamma plane}{43}
+\indexentry{circle of constant resistance}{44}
+\indexentry{circle of constant reactance}{44}
+\indexentry{limit circle}{45}
+\indexentry{The Smith chart}{46}
+\indexentry{smith chart}{46}
+\indexentry{smith chart}{46}
+\indexentry{characteristic impedance}{47}
+\indexentry{limit circle}{47}
+\indexentry{impedance transformation}{47}
+\indexentry{VSWR circles}{48}
+\indexentry{constant vswr circle}{48}
+\indexentry{characteristics admittance}{48}
+\indexentry{characteristics admittance}{48}
+\indexentry{The characteristic admittance}{48}
+\indexentry{characteristics admittance}{49}
+\indexentry{normalized admittances}{49}
+\indexentry{Impedance Transformation}{51}
+\indexentry{impedance transformation}{51}
+\indexentry{maximum normalized resistance}{52}
+\indexentry{maximum value of resistance}{52}
+\indexentry{minimum and maximum voltage and current}{52}
+\indexentry{the minimum and maximum voltage and current}{52}
+\indexentry{voltage maximum}{52}
+\indexentry{minimum voltage}{52}
+\indexentry{Types of Load}{56}
+\indexentry{standing wave pattern}{56}
+\indexentry{types of load}{56}
+\indexentry{standing wave patterns}{57}
+\indexentry{standing wave patterns}{57}
+\indexentry{unknown impedance}{59}
+\indexentry{slotted transmission line}{59}
+\indexentry{frequency response of the circuit}{67}
+\indexentry{quality factor}{67}
+\indexentry{frequency selectivity}{69}
+\indexentry{impedance matching}{71}
+\indexentry{matching condition}{71}
+\indexentry{matching transformer}{71}
+\indexentry{balun}{71}
+\indexentry{quarter wavelength transformer technique}{71}
+\indexentry{stub matching technique}{73}
+\indexentry{stub}{73}
+\indexentry{double stub matching technique}{74}
+\indexentry{three stub matching}{75}
+\indexentry{half wave dipole}{82}
+\indexentry{flat ribbon cable}{82}
+\indexentry{yagi antenna}{82}
+\indexentry{microstrip line}{83}
+\indexentry{unbalanced structure}{84}
+\indexentry{balanced structure}{84}
+\indexentry{balun}{84}
+\indexentry{yagi antenna}{84}
+\indexentry{balun}{84}
+\indexentry{flat ribbon cable}{84}
+\indexentry{balun}{84}
+\indexentry{flat ribbon cable}{84}
+\indexentry{balun}{84}
+\indexentry{balun}{84}
+\indexentry{transit time}{84}
+\indexentry{reflection coefficient}{84}
+\indexentry{matching condition}{84}
+\indexentry{balun}{84}
+\indexentry{coordinate systems}{87}
+\indexentry{vectors}{87}
+\indexentry{coordinate systems}{87}
+\indexentry{gradient}{87}
+\indexentry{divergence}{87}
+\indexentry{scalar}{87}
+\indexentry{coordinate system}{87}
+\indexentry{vectors}{87}
+\indexentry{right-handed coordinate system}{87}
+\indexentry{vectors}{88}
+\indexentry{vectors}{88}
+\indexentry{scalar product}{90}
+\indexentry{vector product}{90}
+\indexentry{scalar product}{90}
+\indexentry{vector product}{90}
+\indexentry{scalar product}{90}
+\indexentry{del operator}{91}
+\indexentry{del operator}{91}
+\indexentry{del operator}{91}
+\indexentry{vector products}{91}
+\indexentry{maxwell's equation}{95}
+\indexentry{\emph{electric field}}{97}
+\indexentry{\emph{magnetic field}}{97}
+\indexentry{current carrying element}{97}
+\indexentry{magneto-motive force (mmf)}{97}
+\indexentry{magenetic flux density}{97}
+\indexentry{permeability}{97}
+\indexentry{vector quantity}{98}
+\indexentry{\emph{Anisotropic} medium}{98}
+\indexentry{electric field}{98}
+\indexentry{Ohm's law}{98}
+\indexentry{\emph{Resistance}}{98}
+\indexentry{conduction current density}{98}
+\indexentry{electric field}{98}
+\indexentry{permeability}{98}
+\indexentry{conduction current density}{98}
+\indexentry{gauss law}{99}
+\indexentry{displacement vector}{99}
+\indexentry{amperes law}{100}
+\indexentry{emf}{101}
+\indexentry{faraday's law}{102}
+\indexentry{Faraday's law of electromagnetic induction}{105}
+\indexentry{Boundary Condition}{107}
+\indexentry{Point Relation}{107}
+\indexentry{Boundary Condition}{107}
+\indexentry{Surface Charge Density}{107}
+\indexentry{volume charge density}{107}
+\indexentry{surface charge density}{107}
+\indexentry{surface charges}{108}
+\indexentry{current density}{111}
+\indexentry{Isotropic medium}{111}
+\indexentry{finite conductivity}{112}
+\indexentry{intrinsic}{115}
+\indexentry{De Moivre's Theorem}{117}
+\indexentry{attenuation}{117}
+\indexentry{poynting theroem}{124}
+\indexentry{Poynting}{124}
+\indexentry{poynting vector}{124}
+\indexentry{uniform plane wave}{126}
+\indexentry{propagation}{126}
+\indexentry{surface density}{129}
+\indexentry{momentary}{129}
+\indexentry{electromagnetic wave}{137}
+\indexentry{corrugated surface}{140}
+\indexentry{plane of undulation}{140}
+\indexentry{corrugated surface}{140}
+\indexentry{phase gradient}{140}
+\indexentry{dilectric interface}{141}
+\indexentry{intrinsic impedance}{141}
+\indexentry{snells law}{142}
+\indexentry{snell's law}{142}
+\indexentry{transmission coefficient}{142}
+\indexentry{intrinsic impedance}{142}
+\indexentry{impedance discontinuity}{142}
+\indexentry{parallel polarization}{142}
+\indexentry{perpendicular polarization}{142}
+\indexentry{dielectric boundary}{145}
+\indexentry{critical angle}{145}
+\indexentry{total internal reflection}{145}
+\indexentry{critical angle}{146}
+\indexentry{reactive fields}{147}
+\indexentry{evenscent fields}{148}
+\indexentry{net power flow}{148}
+\indexentry{wave guides}{148}
+\indexentry{dielectric boundary}{151}
+\indexentry{total internal reflection}{151}
+\indexentry{dielectric interface}{151}
+\indexentry{brewster angle}{153}
+\indexentry{polarizing angle}{154}
+\indexentry{Perpendicular Polarization}{158}
+\indexentry{parallel plane wave guide}{160}

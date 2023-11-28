@@ -1,0 +1,225 @@
+\contentsline {chapter}{Preface}{vii}{chapter*.2}%
+\contentsline {part}{I\hspace {1em}TRANSMISSION LINE AND THE WAVE EQUATION}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Introduction to Electromagnetic Waves}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}OBJECTIVES}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Electromagnetic waves}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Application of electromagnetic waves}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Transmission Line}{4}{subsection.1.3.1}%
+\contentsline {subsubsection}{Twisted pairs}{4}{figure.1.4}%
+\contentsline {subsubsection}{Limitations of Twisted pairs}{4}{figure.1.4}%
+\contentsline {subsubsection}{Coaxial cable}{4}{figure.1.4}%
+\contentsline {subsection}{\numberline {1.3.2}Waveguides}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Antennas}{5}{subsection.1.3.3}%
+\contentsline {subsubsection}{Adaptive array}{5}{figure.1.7}%
+\contentsline {subsubsection}{Switched beam antenna}{5}{figure.1.8}%
+\contentsline {subsection}{\numberline {1.3.4}Satellite communication}{6}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Fiber optics communication}{6}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Wireless communication}{6}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Cellular communication}{6}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}Radar and remote sensing}{6}{subsection.1.3.8}%
+\contentsline {subsubsection}{The monostatic radar equation}{7}{figure.1.15}%
+\contentsline {subsubsection}{Side looking airborne radar (SLAR)}{7}{figure.1.17}%
+\contentsline {subsubsection}{To measure the cross-track resolution}{8}{figure.1.18}%
+\contentsline {subsubsection}{Synthetic aperture radar(SAR)}{8}{figure.1.19}%
+\contentsline {subsubsection}{Synthetic aperture radar (SAR)}{8}{figure.1.19}%
+\contentsline {subsection}{\numberline {1.3.9}Radio astronomy}{9}{subsection.1.3.9}%
+\contentsline {subsection}{\numberline {1.3.10}EMI/EMC}{9}{subsection.1.3.10}%
+\contentsline {chapter}{\numberline {2}Transmission lines}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Objectives}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Structures of transmission lines}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Co-axial cable}{11}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Balanced Parallel wire transmission lines}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Unbalanced Parallel wire transmission lines}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Microstrip Line}{12}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Stripline}{12}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Concept of transit time effect}{12}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Concept of Distributed Elements in a transmission line}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Telegrapher's Equations}{14}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Let's Understand the Telegrapher's Equations}{14}{section.2.6}%
+\contentsline {section}{\numberline {2.7}The complex quantity $\gamma $}{17}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}The Phase constant}{17}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}The Attenuation constant}{17}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2.8}The Characteristic Impedance}{20}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Boundary Conditions}{20}{section.2.9}%
+\contentsline {section}{\numberline {2.10}The Reflection Coefficient}{21}{section.2.10}%
+\contentsline {chapter}{\numberline {3}MAXIMUM POWER TRANSFER AND MATCHED CONDITION}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Objectives}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Matched Condition of the Transmission Line}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Impedance Transformation Relationship}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Loss-Less Transmission Line}{26}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Propagation Constant of Loss-Less Transmission Line}{26}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Characterisitic Impedance Loss-Less Transmission Line}{26}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Low-loss Transmission Line}{27}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Propagation Constant of Low-loss Transmission Line}{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Characterisitic Impedance of Low-loss Transmission Line}{27}{subsection.3.5.2}%
+\contentsline {chapter}{\numberline {4}VOLTAGE AND CURRENT VARIATION IN LOW-LOSS TRANSMISSION LINE}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Objectives}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Voltage And Current Variation on a Lossless Transmission Line}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Concept of Voltage Standing Wave Ratio (VSWR)}{32}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Condition for Full Reflection at Load End}{33}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Conditions for which $|\Gamma _L|=1$}{33}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Maximum and Minimum Resistance}{34}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Impedance Transformation on a Lossless Transmission Line}{36}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Normalized impedance value repeat every $\genfrac {}{}{}{}{\lambda }{2}$ distance}{36}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Normalized impedance inverts at every $\genfrac {}{}{}{}{\lambda }{4}$ distance}{37}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}The matching condition characteristics}{37}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Power Transfer on Transmission Line}{37}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Evaluation of $\mathbf {V^{+}}$}{40}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Introduction to Smith chart}{42}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}\textbf {Objectives}}{42}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Plane Transformation}{42}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Transformation analysis for complex plane}{43}{subsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.9.4}Circle of Constant Resistance}{44}{subsection.4.9.4}%
+\contentsline {subsection}{\numberline {4.9.5}Circle of Constant Reactance}{45}{subsection.4.9.5}%
+\contentsline {section}{\numberline {4.10}}{46}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Concept of constant VSWR circle in lossless transmission line analysis}{48}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Transmission Line Analysis using Admittance}{48}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Use of Smith chart for Transmission Line Calculation}{50}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}}{51}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Voltage Standing Wave Ratio (VSWR)}{52}{subsection.4.13.2}%
+\contentsline {subsection}{\numberline {4.13.3}Location of }{52}{subsection.4.13.3}%
+\contentsline {subsection}{\numberline {4.13.4}Identifying from Standing Wave Pattern}{56}{subsection.4.13.4}%
+\contentsline {subsubsection}{Complex Reactive Loads}{57}{figure.4.39}%
+\contentsline {subsubsection}{Purely Reactive Loads}{57}{figure.4.41}%
+\contentsline {subsubsection}{Resistive Loads}{57}{figure.4.43}%
+\contentsline {section}{\numberline {4.14}Applications of transmission lines}{59}{section.4.14}%
+\contentsline {subsection}{\numberline {4.14.1}Measurement of }{59}{subsection.4.14.1}%
+\contentsline {subsubsection}{Impedance Calculation}{60}{Item.130}%
+\contentsline {subsection}{\numberline {4.14.2}As a Circuit Element}{61}{subsection.4.14.2}%
+\contentsline {subsubsection}{Analytical approach of using transmission line as a circuit element}{62}{figure.4.52}%
+\contentsline {subsubsection}{Graphical approach of using transmission line as a circuit element}{63}{equation.4.14.50}%
+\contentsline {subsection}{\numberline {4.14.3}As a Resonant circuit}{64}{subsection.4.14.3}%
+\contentsline {subsubsection}{Resonance for Series LC Circuit}{64}{figure.4.59}%
+\contentsline {subsubsection}{Resonance for Parallel LC Circuit}{65}{figure.4.59}%
+\contentsline {subsubsection}{Quality Factor of a resonant transmission line circuit}{65}{figure.4.60}%
+\contentsline {subsubsection}{Impedance of resonant circuit with losses}{66}{figure.4.61}%
+\contentsline {subsubsection}{Quality factor}{67}{equation.4.14.59}%
+\contentsline {subsection}{\numberline {4.14.4}As a Step Up Transformer}{69}{subsection.4.14.4}%
+\contentsline {subsection}{\numberline {4.14.5}Matching Of Impedances}{71}{subsection.4.14.5}%
+\contentsline {subsubsection}{Quarter Wavelength Transformer Technique}{71}{figure.4.68}%
+\contentsline {subsubsection}{Complex Load Impedance Matching}{71}{equation.4.14.68}%
+\contentsline {subsubsection}{Stub Matching Technique}{73}{figure.4.74}%
+\contentsline {subsubsection}{Single Stub Matching Technique}{73}{Item.149}%
+\contentsline {subsubsection}{Double Stub Matching Technique}{74}{figure.4.78}%
+\contentsline {subsubsection}{Three Stub Matching Technique}{76}{Item.176}%
+\contentsline {section}{\numberline {4.15}Lossy Transmission Line}{77}{section.4.15}%
+\contentsline {subsection}{\numberline {4.15.1}Very Lossy Transmission Line}{77}{subsection.4.15.1}%
+\contentsline {subsection}{\numberline {4.15.2}Moderately Lossy Transmission Line}{77}{subsection.4.15.2}%
+\contentsline {subsubsection}{Using the Smith chart for lossy lines}{78}{figure.4.85}%
+\contentsline {subsection}{\numberline {4.15.3}Characteristic Impedance and Propagation Constant measurement}{78}{subsection.4.15.3}%
+\contentsline {section}{\numberline {4.16}Various Types of Transmission Lines}{82}{section.4.16}%
+\contentsline {subsection}{\numberline {4.16.1}Coaxial line}{82}{subsection.4.16.1}%
+\contentsline {subsection}{\numberline {4.16.2}Parallel wire transmission line (balanced)}{82}{subsection.4.16.2}%
+\contentsline {subsection}{\numberline {4.16.3}Microstrip line structure}{83}{subsection.4.16.3}%
+\contentsline {section}{\numberline {4.17}Conclusion}{84}{section.4.17}%
+\contentsline {section}{\numberline {4.18}Exercises}{85}{section.4.18}%
+\contentsline {chapter}{\numberline {5}Coordinate System and Vectors}{87}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Objectives}{87}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Coordinate systems}{87}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Cartesian coordinate system}{87}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Cylindrical coordinate system}{88}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Spherical coordinate system}{88}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Vector analysis}{89}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Basic operation of vectors}{89}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Scalar product or dot product}{90}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Vector or cross product}{90}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Exercises}{91}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Divergence and Stokes Theorem}{92}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Divergence or Curl Producing Vector Fields}{92}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Laplacian operator}{92}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Integral Operators}{93}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}Line Integral}{93}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}Surface Integral for Infinitesimally small Area}{93}{subsection.5.5.5}%
+\contentsline {subsection}{\numberline {5.5.6}Volume Integral}{94}{subsection.5.5.6}%
+\contentsline {subsection}{\numberline {5.5.7}Divergence Theorem}{94}{subsection.5.5.7}%
+\contentsline {subsection}{\numberline {5.5.8}Stokes Theorem}{94}{subsection.5.5.8}%
+\contentsline {subsection}{\numberline {5.5.9}Summary}{95}{subsection.5.5.9}%
+\contentsline {section}{\numberline {5.6}EXERCISES}{96}{section.5.6}%
+\contentsline {chapter}{\numberline {6}The Basic Laws To Maxwell's Equation (1)}{97}{chapter.6}%
+\contentsline {section}{\numberline {6.1}OBJECTIVES}{97}{section.6.1}%
+\contentsline {section}{\numberline {6.2}INTRODUCTION}{97}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Magnetic Flux Density $\bar {B}$}{97}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Ohm's Law}{98}{section.6.4}%
+\contentsline {section}{\numberline {6.5}The Physical Laws To Maxwell's Equation}{98}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Gauss Law}{99}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Amperes Law}{100}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Faraday's Law of Electromagnetic Induction}{101}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Summary}{102}{section.6.9}%
+\contentsline {section}{\numberline {6.10}EXERCISE}{103}{section.6.10}%
+\contentsline {chapter}{\numberline {7}The Basic Laws To Maxwell's Equation (2)}{105}{chapter.7}%
+\contentsline {section}{\numberline {7.1}OBJECTIVES}{105}{section.7.1}%
+\contentsline {section}{\numberline {7.2}INTRODUCTION}{105}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Ampere Circuit Law Modification and Maxwell's Equations}{105}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Concept of Surface Charges and Surface Current}{107}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Surface Charge and Surface Charge Density}{107}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Surface Current and Surface Current Density}{108}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.5}Problems}{108}{section.7.5}%
+\contentsline {section}{\numberline {7.6}EXERCISE}{110}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Medium of Finite Conductivity}{111}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Objectives}{111}{section.8.1}%
+\contentsline {subparagraph}{According to Maxwell's equation:}{111}{Item.272}%
+\contentsline {section}{\numberline {8.2}Maxwell's equation in relation to Ampere's Law}{111}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Complex Dielectric Constant}{112}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Propagation of Electromagnetic Waves}{113}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Wave equation}{113}{subsection.8.4.1}%
+\contentsline {section}{\numberline {8.5}Loss Tangent}{114}{section.8.5}%
+\contentsline {section}{\numberline {8.6}ExerciseList}{115}{section.8.6}%
+\contentsline {chapter}{\numberline {9}Wave Propagation in a Medium}{117}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Objective}{117}{section.9.1}%
+\contentsline {section}{\numberline {9.2}\textbf {Effective Depth}}{118}{section.9.2}%
+\contentsline {section}{\numberline {9.3}\textbf {Phase Velocity}}{120}{section.9.3}%
+\contentsline {section}{\numberline {9.4}\textbf {The Case of a Pure Dielectric}}{120}{section.9.4}%
+\contentsline {section}{\numberline {9.5}ExerciseList}{121}{section.9.5}%
+\contentsline {chapter}{\numberline {10}Power Flow in an Electromagnetic Wave}{123}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Objective}{123}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}INTRODUCTION}{123}{subsection.10.1.1}%
+\contentsline {section}{\numberline {10.2}Poynting theorem and Poynting vector}{124}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Uniform Plane wave}{126}{section.10.3}%
+\contentsline {section}{\numberline {10.4}ExerciseList}{127}{section.10.4}%
+\contentsline {chapter}{\numberline {11}Surface current and power loss in a conductor}{129}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Objective}{129}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}}{129}{subsection.11.1.1}%
+\contentsline {section}{\numberline {11.2}ExerciseList}{133}{section.11.2}%
+\contentsline {chapter}{\numberline {12}Uniform Plane Wave in an arbitrary direction}{135}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Objective}{135}{section.12.1}%
+\contentsline {section}{\numberline {12.2}}{135}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Wave in arbitrary direction}{135}{section.12.3}%
+\contentsline {section}{\numberline {12.4}ExerciseList}{138}{section.12.4}%
+\contentsline {chapter}{\numberline {13}Wave propagating in a bound medium}{139}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Learning Outcomes:}{139}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Introduction}{139}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Plane wave at media interface}{139}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Incident wave at a media interface}{139}{section.13.4}%
+\contentsline {chapter}{\numberline {14}Total Internal Reflection}{145}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Learning Outcomes:}{145}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Introduction}{145}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Snell's Law}{145}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Conditions For Total Internal Reflection}{146}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Reactive Fields}{147}{section.14.5}%
+\contentsline {section}{\numberline {14.6}Wave Guides}{148}{section.14.6}%
+\contentsline {chapter}{\numberline {15}Polarization across Dielectric Interface}{151}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Learning Outcomes:}{151}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Introduction}{151}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Decomposition of Polarized wave}{151}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}Incident wave}{151}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}Reflected Wave}{151}{subsection.15.3.2}%
+\contentsline {subsection}{\numberline {15.3.3}Transmitted Wave}{151}{subsection.15.3.3}%
+\contentsline {subsection}{\numberline {15.3.4}Combination of \textbf {E$_i$}, \textbf {E$_r$} and \textbf {E$_t$}}{152}{subsection.15.3.4}%
+\contentsline {section}{\numberline {15.4}Linearly Polarized Wave}{152}{section.15.4}%
+\contentsline {subsection}{\numberline {15.4.1}Normal Reflection}{152}{subsection.15.4.1}%
+\contentsline {subsection}{\numberline {15.4.2}Total Internal Reflection}{152}{subsection.15.4.2}%
+\contentsline {section}{\numberline {15.5}Circular Polarization}{152}{section.15.5}%
+\contentsline {subsection}{\numberline {15.5.1}Normal Reflection}{152}{subsection.15.5.1}%
+\contentsline {subsection}{\numberline {15.5.2}Total Internal Reflection}{152}{subsection.15.5.2}%
+\contentsline {section}{\numberline {15.6}Brewster Angle}{153}{section.15.6}%
+\contentsline {subsection}{\numberline {15.6.1}Parallel Polarization}{153}{subsection.15.6.1}%
+\contentsline {subsection}{\numberline {15.6.2}Perpendicular Polarization}{154}{subsection.15.6.2}%
+\contentsline {chapter}{\numberline {16}Reflection from a Conducting Boundary}{157}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Learning Outcomes:}{157}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Introduction}{157}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Perpendicular Polarization}{158}{section.16.3}%
+\contentsline {subsection}{\numberline {16.3.1}Electric Field}{158}{subsection.16.3.1}%
+\contentsline {subsection}{\numberline {16.3.2}Magnetic Field}{158}{subsection.16.3.2}%
+\contentsline {section}{\numberline {16.4}Electric fields in the dielectric medium}{159}{section.16.4}%
+\contentsline {section}{\numberline {16.5}Magnetic fields in the dielectric medium}{159}{section.16.5}%
+\contentsfinish 

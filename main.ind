@@ -1,0 +1,224 @@
+\begin{theindex}
+
+  \item \emph{Anisotropic} medium, 98
+  \item \emph{Resistance}, 98
+  \item \emph{electric field}, 97
+  \item \emph{magnetic field}, 97
+
+  \indexspace
+
+  \item adaptive array antenna, 5
+  \item admittance, 37
+  \item amperes law, 100
+  \item attenuation, 117
+  \item attenuation constant, 17
+  \item azimuth resolution, 7
+
+  \indexspace
+
+  \item balanced parallel wire transmission line, 11
+  \item balanced structure, 84
+  \item balun, 71, 84
+  \item Boundary Condition, 107
+  \item brewster angle, 153
+
+  \indexspace
+
+  \item characteristic impedance, 20, 25--27, 47
+  \item characteristic length, 18
+  \item characteristics admittance, 48, 49
+  \item circle of constant reactance, 44
+  \item circle of constant resistance, 44
+  \item coaxial cable, 4, 11
+  \item complex co-efficient plane, 43
+  \item conduction current density, 98
+  \item constant vswr circle, 48
+  \item coordinate system, 87
+  \item coordinate systems, 87
+  \item corrugated surface, 140
+  \item coupled equations, 15
+  \item critical angle, 145, 146
+  \item current carrying element, 97
+  \item current density, 111
+
+  \indexspace
+
+  \item De Moivre's Theorem, 117
+  \item del operator, 91
+  \item dielectric boundary, 145, 151
+  \item dielectric interface, 151
+  \item dilectric interface, 141
+  \item displacement vector, 99
+  \item distributed parameters, 13
+  \item divergence, 87
+  \item double stub matching technique, 74
+
+  \indexspace
+
+  \item electric field, 98
+  \item electromagnetic interference, 4, 9
+  \item electromagnetic wave, 137
+  \item emf, 101
+  \item evenscent fields, 148
+
+  \indexspace
+
+  \item fading, 6
+  \item faraday's law, 102
+  \item Faraday's law of electromagnetic induction, 105
+  \item fibre optic cable, 6
+  \item finite conductivity, 112
+  \item flat ribbon cable, 82, 84
+  \item frequency response of the circuit, 67
+  \item frequency selectivity, 69
+
+  \indexspace
+
+  \item gamma plane, 43
+  \item gauss law, 99
+  \item gradient, 87
+
+  \indexspace
+
+  \item half wave dipole, 82
+
+  \indexspace
+
+  \item impedance discontinuity, 142
+  \item impedance matching, 71
+  \item Impedance Transformation, 51
+  \item impedance transformation, 47, 51
+  \item intrinsic, 115
+  \item intrinsic impedance, 141, 142
+  \item Isotropic medium, 111
+
+  \indexspace
+
+  \item limit circle, 45, 47
+  \item lossless transmission line, 26
+  \item low-loss transmission line, 27
+  \item lumped circuit analysis, 13
+
+  \indexspace
+
+  \item magenetic flux density, 97
+  \item magneto-motive force (mmf), 97
+  \item matched condition, 23, 25
+  \item matching condition, 37, 71, 84
+  \item matching power transfer condition, 37
+  \item matching transformer, 71
+  \item maximum normalized resistance, 52
+  \item maximum value of resistance, 52
+  \item maxwell's equation, 95
+  \item microstrip line, 12, 83
+  \item minimum and maximum voltage and current, 52
+  \item minimum voltage, 52
+  \item momentary, 129
+
+  \indexspace
+
+  \item net power flow, 148
+  \item normalized admittances, 49
+  \item normalized impedance, 42
+
+  \indexspace
+
+  \item Ohm's law, 98
+  \item optic fibre, 4
+
+  \indexspace
+
+  \item parallel plane wave guide, 160
+  \item parallel polarization, 142
+  \item permeability, 97, 98
+  \item Perpendicular Polarization, 158
+  \item perpendicular polarization, 142
+  \item phase constant, 17
+  \item phase gradient, 140
+  \item plane of undulation, 140
+  \item Point Relation, 107
+  \item polarizing angle, 154
+  \item Poynting, 124
+  \item poynting theroem, 124
+  \item poynting vector, 124
+  \item primary constants, 13
+  \item propagation, 126
+  \item propagation constant, 15, 26, 27
+
+  \indexspace
+
+  \item quality factor, 67
+  \item quarter wavelength transformer technique, 71
+
+  \indexspace
+
+  \item range resolution, 7
+  \item reactive fields, 147
+  \item reflection coefficient, 21, 84
+  \item right-handed coordinate system, 87
+
+  \indexspace
+
+  \item satellite communication, 6
+  \item scalar, 87
+  \item scalar product, 90
+  \item sectioned radiation patterns, 6
+  \item slotted transmission line, 59
+  \item smith chart, 42, 46
+  \item snell's law, 142
+  \item snells law, 142
+  \item standing wave, 30
+  \item standing wave pattern, 56
+  \item standing wave patterns, 57
+  \item stub, 73
+  \item stub matching technique, 73
+  \item Surface Charge Density, 107
+  \item surface charge density, 107
+  \item surface charges, 108
+  \item surface density, 129
+  \item swath width, 8
+  \item switched beam antenna, 5
+  \item synthetic aperture radar, 8
+
+  \indexspace
+
+  \item telegraphers equations, 15
+  \item The characteristic admittance, 48
+  \item the minimum and maximum voltage and current, 52
+  \item The Smith chart, 46
+  \item three stub matching, 75
+  \item total internal reflection, 145, 151
+  \item transit time, 12, 84
+  \item transmission coefficient, 142
+  \item traveling wave phenomenon, 15
+  \item Types of Load, 56
+  \item types of load, 56
+
+  \indexspace
+
+  \item unbalanced parallel wire transmission line, 11
+  \item unbalanced structure, 84
+  \item uniform plane wave, 126
+  \item unknown impedance, 59
+
+  \indexspace
+
+  \item vector product, 90
+  \item vector products, 91
+  \item vector quantity, 98
+  \item vectors, 87, 88
+  \item voltage maximum, 52
+  \item voltage standing wave ratio, 29, 32, 33, 36
+  \item volume charge density, 107
+  \item VSWR circles, 48
+
+  \indexspace
+
+  \item wave guides, 148
+  \item waveguide, 4, 5
+
+  \indexspace
+
+  \item yagi antenna, 82, 84
+
+\end{theindex}
